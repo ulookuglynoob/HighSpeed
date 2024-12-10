@@ -1,4 +1,4 @@
-<img src=".files/assets/207164480/1/61e08459-d639-46ae-9867-71ab5432685a-removebg-preview.png" alt="Nova" width="300">
+<img src=".assets/207164480/1/61e08459-d639-46ae-9867-71ab5432685a-removebg-preview.png" alt="Nova" width="300">
 
 # HighSpeed - Multiplayer Hovercraft Racing Game
 
