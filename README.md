@@ -1,3 +1,5 @@
+<img src=".files/assets/207164480/1/61e08459-d639-46ae-9867-71ab5432685a-removebg-preview.png" alt="Nova" width="300">
+
 # HighSpeed - Multiplayer Hovercraft Racing Game
 
 Welcome to **HighSpeed**, a thrilling multiplayer hovercraft racing game built using PlayCanvas! This project serves as an exciting experiment with the PlayCanvas engine, showcasing the potential of real-time multiplayer gaming.
