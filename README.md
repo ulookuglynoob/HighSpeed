@@ -27,12 +27,12 @@ HighSpeed is an intense racing game where players control hovercrafts and compet
 To get started with HighSpeed, follow these steps:
 
 1. **Clone the Repository**: 
-   '''bash
+   ```bash
    
    git clone https://github.com/ulookuglynoob/HighSpeed
    
    cd highspeed
-   '''
+   ```
 
 3. **Open in PlayCanvas**: 
    - Go to [PlayCanvas](https://playcanvas.com/) and create a new project.
