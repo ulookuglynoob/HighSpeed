@@ -12,11 +12,11 @@ Welcome to **HighSpeed**, a thrilling multiplayer hovercraft racing game built u
 
 ## Game Overview
 
-HighSpeed is an adrenaline-pumping racing game where players control hovercrafts and compete against each other in fast-paced races. Navigate through dynamic tracks, avoid obstacles, and use power-ups to gain an edge over your opponents. The game is designed to be fun, competitive, and accessible to players of all skill levels.
+HighSpeed is an intense racing game where players control hovercrafts and compete against each other in fast-paced races. Navigate through dynamic tracks and use power-ups to gain an edge over opponents. The game is designed to be fun, competitive, and accessible to players of all skill levels.
 
 ## Features
 
-- **Multiplayer Racing**: Race against friends or players from around the world in real-time.
+- **Multiplayer Racing**: Race against friends or players worldwide in real-time.
 - **Dynamic Tracks**: Experience a variety of unique tracks with different challenges and layouts.
 - **Power-Ups**: Collect power-ups during races to boost your speed or hinder your opponents.
 - **Customizable Hovercrafts**: Personalize your hovercraft with different skins and upgrades.
