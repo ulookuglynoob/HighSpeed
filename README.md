@@ -28,19 +28,21 @@ To get started with HighSpeed, follow these steps:
 
 1. **Clone the Repository**: 
    '''bash
-   git clone https://github.com/yourusername/highspeed.git
+   
+   git clone https://github.com/ulookuglynoob/HighSpeed
+   
    cd highspeed
    '''
 
-2. **Open in PlayCanvas**: 
+3. **Open in PlayCanvas**: 
    - Go to [PlayCanvas](https://playcanvas.com/) and create a new project.
    - Import the assets and scripts from the cloned repository into your PlayCanvas project.
 
-3. **Set Up Colyseus**: 
+4. **Set Up Colyseus**: 
    - Follow the instructions in the [Colyseus documentation](https://colyseus.io/docs/) to set up the multiplayer server.
    - Ensure that your server is running and properly configured to handle multiplayer sessions.
 
-4. **Run the Game**: 
+5. **Run the Game**: 
    - Launch the game in PlayCanvas and connect to your Colyseus server to start racing!
 
 ## Credits
