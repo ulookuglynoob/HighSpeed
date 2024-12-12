@@ -17,9 +17,7 @@ HighSpeed is an intense racing game where players control hovercrafts and compet
 ## Features
 
 - **Multiplayer Racing**: Race against friends or players worldwide in real-time.
-- **Dynamic Tracks**: Experience a variety of unique tracks with different challenges and layouts.
 - **Power-Ups**: Collect power-ups during races to boost your speed or hinder your opponents.
-- **Customizable Hovercrafts**: Personalize your hovercraft with different skins and upgrades.
 - **Responsive Controls**: Enjoy smooth and intuitive controls for an immersive racing experience.
 
 ## Getting Started
