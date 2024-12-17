@@ -1,6 +1,6 @@
 <img src="61e08459-d639-46ae-9867-71ab5432685a-removebg-preview (1) (1).png" alt="Logo" width="400">
 
-Welcome to **HighSpeed**, a thrilling multiplayer hovercraft racing game built using PlayCanvas! This project was made as an experiment with the PlayCanvas engine.
+Welcome to **HighSpeed**, a fun multiplayer hovercraft racing game built using PlayCanvas! This project was made as an experiment with the PlayCanvas engine.
 
 ## Table of Contents
 
@@ -17,8 +17,8 @@ HighSpeed is an intense racing game where players control hovercrafts and compet
 ## Features
 
 - **Multiplayer Racing**: Race against friends or players worldwide in real-time.
-- **Power-Ups**: Collect power-ups during races to boost your speed or hinder your opponents.
-- **Responsive Controls**: Enjoy smooth and intuitive controls for an immersive racing experience.
+- **Power-Ups**: Collect power-ups during races to boost your speed.
+- **Responsive Controls**: Enjoy smooth controls for a fun racing experience.
 
 ## Getting Started
 
@@ -51,6 +51,12 @@ A special thanks to **Colyseus** for providing their multiplayer template, which
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
+## Contact
 
-Thank you for checking out HighSpeed! We hope you enjoy racing as much as we enjoyed creating it. If you have any questions or feedback, feel free to reach out! Happy racing!
+For any inquiries or support, please contact:
+
+Email: ulookuglynoob@email.com
+ or 
+Email: syandansamanta2010@gmail.com
+
+Please give us feedback. It really helps!
