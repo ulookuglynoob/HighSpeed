@@ -55,8 +55,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, please contact:
 
-Email: ulookuglynoob@email.com
- or 
-Email: syandansamanta2010@gmail.com
+ulookuglynoob@email.com or syandansamanta2010@gmail.com
 
 Please give us feedback. It really helps!
